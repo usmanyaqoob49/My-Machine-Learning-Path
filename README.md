@@ -1,2 +1,2 @@
 # Machine-Learning-Path
-Contains the information of step by step courses I did for my Machine Learning Carrer.
+Contains the information and material, I have been making for my Machine Learning Carrer.
